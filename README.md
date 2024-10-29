@@ -1,2 +1,2 @@
 # delta-demo
-This is demo project for Git amd Github class
+This is demo project for Git amd Github class.
